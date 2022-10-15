@@ -17,7 +17,7 @@ public class operadorTernario {
 
 		resultado = (salario > 5000) ?  15 : (salario < 5000) ?  5 : 5;
 				System.out.println(resultado);
-
+ // serve como um IF ELSE para pequenos testes de um 2 ou 3 dados.
 		
 	}
 }
