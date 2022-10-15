@@ -14,7 +14,7 @@ Caso contrario, retorne 5. */
 			System.out.println("\n 15");
 
 		} else {
-			System.out.println("\n 5 ");
+			System.out.println("\n 5");
 		}
 	}
 

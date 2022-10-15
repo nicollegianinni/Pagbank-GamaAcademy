@@ -33,7 +33,7 @@ public class hora {
 	public static void main(String[] args) {
 		
 		hora Hora = new hora();
-		Hora.verificaPeriodo(19); // (inclua o valor aqui para testar o metodo)
+		Hora.verificaPeriodo(3); // (inclua o valor aqui para testar o metodo)
 		
 		
 		
