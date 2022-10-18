@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 import atv1Java.salario;
 
+
+/*
+ * Escreva uma classe chamada curso, crie um metodo chamado "escreveNome".
+ * Usando While escreva Elas Tech por 5 vezes (usando System.out.println)
+ *  
+ *  */
 public class curso {
 
 	// metodo

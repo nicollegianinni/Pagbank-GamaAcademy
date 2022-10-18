@@ -2,6 +2,8 @@ package atv2Java;
 
 public class listarImpar {
 
+// exercicio 2 : Liste numero pares de 1 a 100.
+
 	public static void listar() {
 
 		int numero = 0;
