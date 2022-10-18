@@ -2,7 +2,7 @@ package atv2Java;
 
 public class listarImpar {
 
-// exercicio 2 : Liste numero pares de 1 a 100.
+// exercicio 3 : Liste numero impares de 1 a 100.
 
 	public static void listar() {
 
