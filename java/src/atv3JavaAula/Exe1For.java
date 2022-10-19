@@ -9,7 +9,7 @@ public class Exe1For {
 
 		int x;
 		int contador = 2;
-
+		System.out.println("\n Tabuada do 2 (até o x 9): ");
 		for (x = 0; x < 10; x++) {
 
 			System.out.println(contador + " x " + x + " = " + (x * contador));
@@ -19,12 +19,12 @@ public class Exe1For {
 
 	}
 
-	// exercicio 2 : todas as tabuadas
+	// exercicio 2 : todas as tabuadas ate 9.
 	public static void imprimeTodasTabuadas() {
 
 		int x = 1;
 		int contadorTodas = 0;
-
+		System.out.println("\n Todas Tabuadas:  ");
 		while (contadorTodas < 9) {
 			contadorTodas++;
 
