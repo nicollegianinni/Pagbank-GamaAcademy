@@ -3,7 +3,8 @@ package atv3JavaAula;
 import atv1JavaAula.salario;
 
 public class Exe1For {
-
+	
+     //  FOR
 	// exercicio 1: tabuadas do 2 ate o 9.
 	public static void escreveTabuada() {
 
@@ -18,15 +19,16 @@ public class Exe1For {
 		System.out.println("\n");
 
 	}
-
+     // FOR  dentro de FOR
 	// exercicio 2 : todas as tabuadas ate 9.
 	public static void imprimeTodasTabuadas() {
 
 		int x = 1;
 		int contadorTodas = 0;
 		System.out.println("\n Todas Tabuadas:  ");
-		while (contadorTodas < 9) {
-			contadorTodas++;
+		
+		for (contadorTodas = 1; contadorTodas < 10; contadorTodas++) {
+			
 
 			for (x = 0; x <= 10; x++) {
 
