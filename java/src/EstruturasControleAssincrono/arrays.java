@@ -1,5 +1,6 @@
 package EstruturasControleAssincrono;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class arrays {
@@ -43,6 +44,18 @@ public class arrays {
 
 		System.out.printf(" array float usase printf. a posição 3 é :" + teste[3]);
 
+		System.out.println("\n algumas informações:");
+		
+		//exemplo 1: ordenando arrays
+		int[] num = { 2, 4, 1, 5, 3 };
+
+		// ordenando
+		Arrays.sort(num);
+
+		for (int n : num) {
+
+			System.out.printf("%d -", n);
+		}
 		entrada.close();
 	}
 
