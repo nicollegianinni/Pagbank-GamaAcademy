@@ -1,4 +1,4 @@
-package aula4Duvidas;
+package atv4AuladeDuvidas;
 
 //crie um metodo que liste todos os arrays
 // 3 formas de listar uma lista de cidades.

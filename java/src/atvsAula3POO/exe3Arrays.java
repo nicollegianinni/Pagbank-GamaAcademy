@@ -1,4 +1,4 @@
-package atvsAulaPOO;
+package atvsAula3POO;
 
 public class exe3Arrays {
 
