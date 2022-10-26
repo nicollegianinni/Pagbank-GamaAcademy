@@ -1,4 +1,4 @@
-package atv3JavaAula;
+package POOduvidasAula;
 
 import atv1JavaAula.salario;
 

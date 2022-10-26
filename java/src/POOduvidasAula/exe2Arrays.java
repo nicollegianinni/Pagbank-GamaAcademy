@@ -1,4 +1,4 @@
-package atv3JavaAula;
+package POOduvidasAula;
 
 import java.util.Arrays;
 import java.util.Scanner;
