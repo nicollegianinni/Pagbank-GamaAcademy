@@ -1,4 +1,4 @@
-package POOduvidasAula;
+package atvsAulaPOO;
 
 public class exe3Arrays {
 

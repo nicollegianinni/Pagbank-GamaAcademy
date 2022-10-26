@@ -1,4 +1,4 @@
-package POOduvidasAula;
+package atvsAulaPOO;
 
 import java.util.Scanner;
 

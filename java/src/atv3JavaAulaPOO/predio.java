@@ -1,4 +1,4 @@
-package POOatvAula;
+package atv3JavaAulaPOO;
 
 /*
  * Crie uma classe chamada Predio, contendo os seguintes atributos: 
